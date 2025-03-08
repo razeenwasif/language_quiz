@@ -2,6 +2,8 @@
 
 An interactive web application that helps users practice writing characters from different writing systems using machine learning. The app supports English letters, Greek letters, and Japanese Hiragana characters.
 
+![home](assets/new1.png)
+
 ## Features
 
 - **Multiple Language Support**:
@@ -110,7 +112,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Gallery
 
-![homepage](assets/1.png)
+![homepage](assets/ref.png)
 ![homepage mobile](assets/2.png)
 ![japanese](assets/3.png)
 ![greek]()
